@@ -1,0 +1,26 @@
+{
+  "name": "albion-enchanting-calculator",
+  "version": "1.0.0",
+  "description": "albion enchanting profit calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusBorgez/albion-enchanting-calculator.git"
+  },
+  "keywords": [
+    "albion"
+  ],
+  "author": "Matheus Borges",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusBorgez/albion-enchanting-calculator/issues"
+  },
+  "homepage": "https://github.com/MatheusBorgez/albion-enchanting-calculator#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
